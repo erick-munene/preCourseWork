@@ -15,6 +15,7 @@ body {
 #head {
     background-color: black;
     font-family: sans-serif;
+    font-size: 25;
     color: yellow;
     text-align: left;
     padding-top: 10px;
