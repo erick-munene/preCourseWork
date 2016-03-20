@@ -5,6 +5,7 @@ body {
     background-color: aliceblue color: black;
     /* This is the font color */
     font-family: 'Oswald', sans-serif;
+    border-image-width: auto;
     border: 5px;
     padding: 2px;
     margin: 2px;
