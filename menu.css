@@ -33,6 +33,26 @@ body {
     padding-bottom: 10px;
     
 }
+#button {
+    background-color: whitesmoke; /* whitesmoke */
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: inherit;
+    display: inline-block;
+    font-size: 30px;
+    
+    
+}
+#details {
+    
+   color: #900;
+  font-weight: bold;
+  font-size: 150%;
+  text-transform: uppercase; 
+    
+}
 #neck2 {
     background-color: whitesmoke;
     font-family: serif;
@@ -42,8 +62,7 @@ body {
     background-color: whitesmoke;
     font-family: serif;
     color: darkslategrey;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    
 }
 #img2 {
     object-position: right;
