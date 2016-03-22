@@ -70,8 +70,18 @@ body {
     
 }
 
-.img {
-    
+.image {
+   position: relative; 
+   width: 100%; /*  */
+}
+
+h2 { 
+   position: absolute;
+    font-size: 30px;
+    font-family: sans-serif;
+   top: 200px; 
+   left: 0; 
+   width: 100%;  
     
 }
 #img2 {
